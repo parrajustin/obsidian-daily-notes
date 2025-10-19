@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-daily-notes",
+	"name": "Obsidian Daily Notes",
+	"version": "v0.0.1",
+	"description": "Daily notes and plugin",
+	"minAppVersion": "1.5.0",
+	"author": "Justin Parra",
+	"authorUrl": "https://github.com/parrajustin",
+	"isDesktopOnly": false
+}
